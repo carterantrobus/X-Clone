@@ -11,4 +11,4 @@ https://github.com/carterantrobus/X-Clone/assets/113034271/c9f5914a-d109-41b8-95
 
 * Flutter (Dart)
 
-Currently prototype, although thus far it displays the interface of an X feed.
+Currently prototype, although thus far it displays the interface of an X account feed.
